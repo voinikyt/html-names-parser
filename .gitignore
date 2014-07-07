@@ -1,0 +1,8 @@
+//ignore intellij configuration files
+*.iml
+.idea/
+//eclipse configuration
+.project
+.settings/
+shell/.classpath
+core/.classpath

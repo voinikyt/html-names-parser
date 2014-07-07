@@ -1,0 +1,2 @@
+@echo off
+rdf.bat -url http://store4.data.bg/ruin/tasks/A.html -firstNameColumn 2 -lastNameColumn 3 -format PLAIN -d A.txt

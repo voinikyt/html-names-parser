@@ -1,0 +1,2 @@
+@echo off
+rdf.bat -file A.html -firstNameColumn 2 -lastNameColumn 3 -format RDFXML -d A.xml
